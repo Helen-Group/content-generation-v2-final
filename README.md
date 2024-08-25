@@ -96,8 +96,5 @@ This folder and associated `.yaml` file are very important for the vetting flow 
 
 That being said, how do we generate iterations of these videos to begin with, and eventually use?
 
-## Generate videos
-WIP
-
 
 
