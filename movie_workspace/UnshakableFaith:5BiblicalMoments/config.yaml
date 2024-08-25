@@ -1,0 +1,46 @@
+scenes:
+-   prompt: A 3D dramatic fantasy scene of a large, ancient, illuminated manuscript,
+        filled with intricate illustrations of biblical stories, floating in a celestial
+        space filled with stars and nebulae.
+    sentence: Ever wondered about the most profound moments of unshakable faith in
+        the Bible?
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of Abraham, an old man with a determined look,
+        holding a knife over Isaac, who is bound on an altar, under a stormy sky.
+    sentence: Abraham, ready to sacrifice Isaac, showed faith so deep it defied human
+        understanding.
+    transformation_type: zoom_in
+-   prompt: A renaissance art-style scene of Noah, surrounded by a crowd of mocking
+        people, as he constructs a massive wooden ark under a foreboding sky.
+    sentence: Noah, heeding God's warning, built an ark amidst ridicule, displaying
+        unwavering belief.
+    transformation_type: zoom_in
+-   prompt: An oil painting of Moses, staff raised high, as the Red Sea parts before
+        him, revealing a path to freedom, under a sky filled with divine light.
+    sentence: Moses, standing before the Red Sea, trusted God's promise and led his
+        people to freedom.
+    transformation_type: pan_left_to_right
+-   prompt: A 3D dramatic fantasy image of a teenager wearing a Divine Dissent t-shirt,
+        standing on a mountaintop, looking out at a breathtaking sunrise.
+    sentence: Now, imagine wearing your faith, as unshakable as theirs, with Divine
+        Dissent.
+    transformation_type: pan_left_to_right
+-   prompt: A hyper-realistic image of a Divine Dissent clothing store, filled with
+        stylish, faith-inspired clothing, bathed in the warm glow of a setting sun.
+    sentence: Divine Dissent, a brand that lets you wear your faith, your way.
+    transformation_type: pan_left_to_right
+-   prompt: A renaissance art-style scene of Daniel, calm and unafraid, surrounded
+        by lions in a dark den, a divine light illuminating him.
+    sentence: Daniel, thrown into the lion's den, remained unharmed, his faith a protective
+        shield.
+    transformation_type: zoom_in
+-   prompt: An oil painting of Job, sitting amidst ruins, looking up at the heavens
+        with a look of unwavering faith, under a starry night sky.
+    sentence: Job, despite losing everything, never lost faith, proving its power
+        in adversity.
+    transformation_type: pan_left_to_right
+-   prompt: A 3D dramatic fantasy image of a hand holding a glowing smartphone, the
+        screen showing the video, against a backdrop of a vast, star-filled universe.
+    sentence: Share this video, inspire others with these tales of unshakable faith.
+    transformation_type: pan_left_to_right
+title: 'Unshakable Faith: 5 Biblical Moments'

@@ -1,0 +1,51 @@
+scenes:
+-   prompt: A 3D dramatic fantasy of a modern city skyline, bathed in the ethereal
+        glow of a setting sun, with a giant stone tablet hovering mysteriously above.
+    sentence: Ever wondered what the 10 commandments would look like today?
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of a teenager, eyes wide in awe, as they gaze
+        at a dazzling array of social media icons, overshadowed by a radiant symbol
+        of divinity.
+    sentence: First up, 'Thou shall not have other gods before me'.
+    transformation_type: pan_right_to_left
+-   prompt: A Renaissance art-style scene of teenagers worshiping a golden statue
+        of a popular influencer, their faces illuminated by the glow of their smartphones.
+    sentence: Next, 'Thou shall not make idols', but what about influencers?
+    transformation_type: pan_left_to_right
+-   prompt: An oil painting of a teenager, hand over mouth in shock, as a divine lightning
+        bolt strikes their phone, the screen displaying a blasphemous text message.
+    sentence: Third, 'Thou shall not take the Lord's name in vain'.
+    transformation_type: pan_right_to_left
+-   prompt: A 3D dramatic fantasy of a teenager, surrounded by a halo of light, choosing
+        to read a book amidst a whirlwind of digital distractions.
+    sentence: Fourth, 'Remember the Sabbath day, to keep it holy'.
+    transformation_type: pan_left_to_right
+-   prompt: A hyper-realistic image of a teenager showing respect to their parents
+        by featuring them in a TikTok dance, their faces glowing with joy and surprise.
+    sentence: Fifth, 'Honor thy father and thy mother', even on TikTok.
+    transformation_type: pan_left_to_right
+-   prompt: A Renaissance art-style scene of a teenager defending a victim from a
+        horde of monstrous, snarling cyberbullies, their faces twisted with hate.
+    sentence: Sixth, 'Thou shall not kill', applies to online bullying too.
+    transformation_type: zoom_in
+-   prompt: An oil painting of a teenager resisting the temptation to peek at a classmate's
+        paper, a divine light illuminating their determined face.
+    sentence: Seventh, 'Thou shall not commit adultery', or cheat on tests.
+    transformation_type: zoom_in
+-   prompt: A 3D dramatic fantasy of a teenager, hand frozen mid-air, as they contemplate
+        stealing a meme, a divine figure watching sternly from the clouds.
+    sentence: Eighth, 'Thou shall not steal', even if it's just memes.
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of a teenager debunking a fake news story on their
+        phone, their face lit by the glow of truth.
+    sentence: Ninth, 'Thou shall not bear false witness', or spread fake news.
+    transformation_type: pan_left_to_right
+-   prompt: A Renaissance art-style scene of a teenager resisting the green-eyed monster
+        of envy as they scroll through a friend's popular social media profile.
+    sentence: Tenth, 'Thou shall not covet', even your friend's followers.
+    transformation_type: zoom_out
+-   prompt: An oil painting of a teenager, bathed in divine light, sharing this video
+        with a friend, their faces filled with awe and amusement.
+    sentence: Share this with someone who needs a modern-day commandments refresher!
+    transformation_type: pan_left_to_right
+title: 'The 10 Commandments: TikTok Edition'

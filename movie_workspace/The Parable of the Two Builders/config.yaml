@@ -1,0 +1,49 @@
+scenes:
+-   prompt: A 3D dramatic fantasy scene of two builders, one bathed in golden light,
+        the other in ominous shadows, both standing on opposite cliffs, tools in hand,
+        with a mysterious, swirling sky above.
+    sentence: Ever wondered why two builders, same skills, had different fates?
+    transformation_type: zoom_in
+-   prompt: A hyper-realistic image of a wise-looking builder, his eyes reflecting
+        the determination, standing on a solid rock foundation, surrounded by a halo
+        of radiant light.
+    sentence: Builder One, wise as an owl, chose a rock foundation.
+    transformation_type: pan_left_to_right
+-   prompt: A Renaissance art-style scene of a reckless builder, a sly grin on his
+        face, building his house on a mound of shifting sand, under a sky filled with
+        foreboding clouds.
+    sentence: Builder Two, reckless as a fox, picked sand for his.
+    transformation_type: pan_left_to_right
+-   prompt: An oil painting of Builder One, pointing towards the sandy foundation,
+        a look of concern on his face, while Builder Two dismisses him with a wave
+        of his hand.
+    sentence: Builder One says to Builder Two, 'This won't end well.'
+    transformation_type: zoom_in
+-   prompt: A 3D dramatic fantasy scene of Builder Two laughing heartily, his house
+        half-built on the sand, as the sun sets ominously in the background.
+    sentence: Builder Two laughs, 'I'll finish faster, watch and learn!'
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of a fierce storm, lightning splitting the sky,
+        rain lashing against Builder One's house, which stands firm and unyielding
+        on its rock foundation.
+    sentence: Storms came, Builder One's house stood firm, unyielding.
+    transformation_type: pan_right_to_left
+-   prompt: A Renaissance art-style scene of Builder Two's house crumbling under the
+        onslaught of the storm, the builder standing in shock as his work is reduced
+        to rubble.
+    sentence: Builder Two's house, however, crumbled like a house of cards.
+    transformation_type: pan_right_to_left
+-   prompt: An oil painting of Builder One, safe in his sturdy house, watching through
+        a window as Builder Two's house crumbles, a look of pity on his face.
+    sentence: Builder One, safe and dry, watches Builder Two's downfall.
+    transformation_type: zoom_in
+-   prompt: A 3D dramatic fantasy scene of Builder Two, drenched in rain, standing
+        amidst the ruins of his house, a look of realization and regret on his face.
+    sentence: Builder Two, drenched and defeated, realizes his grave mistake.
+    transformation_type: pan_left_to_right
+-   prompt: A hyper-realistic image of the two builders, one standing tall on his
+        rock foundation, the other knee-deep in the ruins of his sandy foundation,
+        under a sky clearing after the storm, symbolizing the dawn of wisdom.
+    sentence: Moral? Wisdom isn't about speed, but making the right choices.
+    transformation_type: pan_left_to_right
+title: The Parable of the Two Builders

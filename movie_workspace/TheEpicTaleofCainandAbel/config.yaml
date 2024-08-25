@@ -1,0 +1,66 @@
+scenes:
+-   prompt: A 3D dramatic fantasy scene of a campfire, with eager faces illuminated
+        by the flickering flames, surrounded by the dark, mysterious forest.
+    sentence: Gather round, folks, for a tale as old as time itself.
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of two shadowy figures, representing Cain and
+        Abel, standing at the edge of a cliff, overlooking a stormy sea.
+    sentence: This story, my friends, will leave you questioning the very essence
+        of brotherhood.
+    transformation_type: zoom_in
+-   prompt: A Renaissance art-style scene of two young men, one tending to crops and
+        the other to a flock of sheep, under a golden sun both are caucasian.
+    sentence: In the beginning, there were two brothers, Cain, the farmer, and Abel,
+        the shepherd.
+    transformation_type: pan_right_to_left
+-   prompt: An oil painting of Cain, his face hardened by labor and darkened by envy,
+        as he watches his younger brother from afar.
+    sentence: Cain, the elder, was a hard worker, but his heart was filled with jealousy.
+    transformation_type: zoom_in
+-   prompt: A 3D dramatic fantasy image of Abel, bathed in divine light, his face
+        radiating kindness and love.
+    sentence: Abel, on the other hand, was kind and loved by all, especially God.
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of Cain, holding a basket of fruits, proposing
+        his plan to Abel, who is surrounded by his best sheep. They are toned but not muscular.
+    sentence: One day, Cain says to Abel, 'Let's offer our best produce to God.'
+    transformation_type: zoom_in
+-   prompt: A Renaissance art-style scene of a divine hand reaching down from the
+        heavens, accepting Abel's offering and ignoring Cain's.
+    sentence: God accepted Abel's offering but rejected Cain's, which fueled Cain's
+        jealousy.
+    transformation_type: zoom_in
+-   prompt: An oil painting of Cain, his face twisted in anger, leading Abel to a
+        secluded field, under a foreboding sky.
+    sentence: Cain, in his rage, says to Abel, 'Let's go to the field.'
+    transformation_type: pan_right_to_left
+-   prompt: A 3D dramatic fantasy scene of Cain standing over Abel's lifeless body
+        in the field, his hands stained with his brother's blood.
+    sentence: In the field, Cain, overcome by jealousy, takes Abel's life.
+    transformation_type: pan_right_to_left
+-   prompt: A hyper-realistic image of a divine figure, shrouded in storm clouds,
+        confronting Cain, who is trembling with fear.
+    sentence: God, in his wrath, says to Cain, 'Where is your brother Abel?'
+    transformation_type: zoom_out
+-   prompt: A Renaissance art-style scene of Cain, his face pale with guilt, lying
+        to the divine figure, under a sky filled with lightning.
+    sentence: Cain, in his guilt, lies to God, 'I do not know.'
+    transformation_type: zoom_out
+-   prompt: An oil painting of a divine figure, his face filled with sorrow, cursing
+        Cain, who is now marked with a symbol of his sin.
+    sentence: God, knowing the truth, curses Cain to wander the earth forever.
+    transformation_type: pan_right_to_left
+-   prompt: A 3D dramatic fantasy scene of Cain, his face marked by his sin, wandering
+        alone in a barren landscape, under a blood-red sky.
+    sentence: And so, Cain, marked by his sin, wanders the earth, forever alone.
+    transformation_type: zoom_in
+-   prompt: A hyper-realistic image of the campfire, its flames dancing wildly, casting
+        long, ominous shadows, as the story reaches its climax.
+    sentence: This tale, my friends, is a reminder of the destructive power of jealousy.
+    transformation_type: zoom_in
+-   prompt: A Renaissance art-style scene of the storyteller, his face illuminated
+        by the campfire, gesturing towards the viewers, inviting them to share the
+        tale.
+    sentence: If this story gave you chills, don't forget to share this video!
+    transformation_type: pan_left_to_right
+title: The Epic Tale of Cain and Abel

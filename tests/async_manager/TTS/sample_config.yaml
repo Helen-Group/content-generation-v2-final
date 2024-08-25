@@ -1,0 +1,6 @@
+TTS:
+  voice: oH7WLysPgrahlQ0DFWUT
+
+global_settings:
+  # Default
+  output_path: ./tests/async_manager/TTS

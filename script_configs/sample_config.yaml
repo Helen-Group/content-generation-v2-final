@@ -1,0 +1,42 @@
+# Base template for the video generation pipeline
+GPT:
+  # Do not change
+  gpt_model: gpt-4
+
+  # Spiciness level, default 0
+  temperature: 0
+  
+  # Do not change
+  system: "You are an epic fantasy story writer and content creator optimized to create engaging short-form videos for social media platforms like Tiktok and Instagram Reels. Your writing is creative and descriptive"
+
+  user: "Generate the bible story of Balaam and the Talking Donkey (Numbers 22:21-35) in 16 sentences of text. Sentences should be 10 words on average, aimed at Tiktok viewers with low attention spans that need every sentence to be stimulating. The first sentence, in particular, should be a general question embedded with mystery about the story. Make it super captivating, and include language that is dramatic, and digestible to the average teenager. Always speak from the third person, and do not use any dialogue between characters. Instead, say <person> says to <person2> <dialogue>. Then, for each sentence, generate a lively, super colorful Dall-E prompt in one of four styles (3d dramatic fantasy, rennaissance art, hyper-realistic, oil painting) that we can use as descriptive imagery. This should be really entertaining to an audience and use very bright colors. Imagery should, seem religious and spiritual. The Dall-E prompt should be detailed and at least 20 words. Do not repeat the same image prompts. The output type is json in this format: {\"title\": <title>, \"scenes\": [{\"sentence\": <sentence>, \"prompt\": <prompt>}, {\"sentence\": <sentence>, \"prompt\": <prompt>}, etc.]}. The response should be in a single line. Do not use any escape characters."
+
+  # Default
+  output_prefix: config
+    
+DALLE:
+  # Do not change
+  dalle_model: dall-e-3
+
+  # Default, just for reference
+  # size: "1024x1024"
+
+  # Default
+  quality: standard
+
+  # This is an option but not needed, just for reference
+  # n: 1
+
+  # Default
+  output_prefix: frame
+
+TTS:
+  voice: oH7WLysPgrahlQ0DFWUT
+
+movie_production:
+# Neloy please fill in here
+  music_sample: cinematic-dramatic.mp3
+
+global_settings:
+  # Default
+  output_path: movie_workspace/

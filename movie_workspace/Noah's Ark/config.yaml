@@ -1,0 +1,14 @@
+scenes:
+-   prompt: 3d dramatic fantasy of a divine voice echoing in a sinful world
+    sentence: In a world drowned in sin, a divine voice echoed.
+    transformation_type: zoom_out
+-   prompt: Renaissance art of Noah receiving a divine mission
+    sentence: Noah, a righteous man, was chosen for a divine mission.
+    transformation_type: zoom_out
+-   prompt: Renaissance art of Noah receiving a divine mission
+    sentence: Noah, a righteous man, was chosen for a divine mission.
+    transformation_type: zoom_out
+-   prompt: Renaissance art of Noah receiving a divine mission
+    sentence: Noah, a righteous man, was chosen for a divine mission.
+    transformation_type: zoom_in
+title: Noah's Ark

@@ -1,0 +1,19 @@
+# Base template for the video generation pipeline
+GPT:
+  # Do not change
+  gpt_model: "gpt-3.5-turbo"
+
+  # Spiciness level, default 0
+  temperature: 0
+  
+  # Do not change
+  system: "You are a random word generator"
+
+  user: "Give me 3 random words in the json format: {\"words\" : [<word1>, <word2>, etc.]}"
+
+  # Default
+  output_prefix: "config"
+
+global_settings:
+  # Default
+  output_path: "./tests/script_generation"

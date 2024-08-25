@@ -1,0 +1,23 @@
+DALLE:
+  # Do not change
+  dalle_model: dall-e-3
+
+  # Default, just for reference
+  # size: "1024x1024"
+
+  # Default
+  quality: standard
+
+  # This is an option but not needed, just for reference
+  # n: 1
+
+  # Default
+  output_prefix: frame
+
+TTS:
+  voice: oH7WLysPgrahlQ0DFWUT
+  output_prefix: audio
+
+global_settings:
+  # Default
+  output_path: ./tests/async_manager
